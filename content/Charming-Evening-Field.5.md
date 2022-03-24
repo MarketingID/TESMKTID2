@@ -1,55 +1,34 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-6.jpg"
-categories: 
-  - "Food"
+title: Medical Digital Marketing, why not?
+date: 2022-03-24T08:46:10+00:00
+description: This is meta description
+type: post
+image: "/images/healthcare-marketing-1.webp"
+categories:
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
+
 ---
+# The digital presence in the health sector sets trends and those who are not on the Internet simply do not exist and limit their market.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Medical Digital Marketing grew exponentially during the global coronavirus pandemic and the healthcare area did not escape this phenomenon. If you are not on the internet yet, you simply don't exist!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Nowadays, people surfing the Internet are more diligent when it comes to researching health-related topics. They are interested in comments, recommendations about doctors, the geographic location of clinics and hospitals, and they enter blogs and forums before deciding where to go.
 
+However, technology has come to simplify life and make it easier when it comes to health. Therefore, those who are in this trend know that it is essential to have great Healthcare content marketing.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+That´s why professionals and institutes should think in a Social Media Marketing for Healthcare, not just for being more competitive but to reach the new and demanding consumer. So, what you need to have presence in the digital market?
 
+Here are some suggestions that will make you visible in the internet:
 
-![](../images/post-img.jpg)
+1\. Web desing for growth: users inform theirself to solve their needs and questions from any source. Some od them do it through their phones and for that reason it’s essential have a responisve website and with optimized conditions for this format.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+A key point of your site is that it must be easy to navigate and offer relevant and fast information, because time is your worst enemy. In addition, the user's experience with your site is the first step in a long-term relationship that you want to build loyalty.
 
+2\. SEO possitioning strategy: A good SEO strategy is to place your website at the top of the search results related to your services or products you offer.
 
+3\. Content marketing. Keep in mind that quality information puts you at an advantage. Health topics are highly relevant and essential to achieve your business objectives.
+
+From step one to digital, Marketing for doctors and healthcare professional in general, means increased patient recruitment and loyalty, better attention, increase services online, develop new business models, better communication and more importantly, highlight from others. It´s time to grow and get the Digital Marketing Era into your business DNA with the right strategy. You can contact our experts by clicking HERE.
